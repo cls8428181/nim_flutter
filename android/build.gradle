@@ -1,4 +1,4 @@
-group 'cn.cgm.nim_flutter'
+group 'cn.cls.nim_flutter'
 version '1.0-SNAPSHOT'
 
 buildscript {

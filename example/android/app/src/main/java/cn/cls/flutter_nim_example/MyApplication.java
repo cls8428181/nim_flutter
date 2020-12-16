@@ -1,11 +1,11 @@
-package cn.cgm.nim_flutter_example;
+package cn.cls.nim_flutter_example;
 
 import com.netease.nimlib.sdk.NIMClient;
 import com.netease.nimlib.sdk.SDKOptions;
 import com.netease.nimlib.sdk.mixpush.MixPushConfig;
 
-import cn.cgm.nim_flutter.Helper.FlutterNIMPreferences;
-import cn.cgm.nim_flutter.Helper.FlutterNIMSDKOptionConfig;
+import cn.cls.nim_flutter.Helper.FlutterNIMPreferences;
+import cn.cls.nim_flutter.Helper.FlutterNIMSDKOptionConfig;
 import io.flutter.app.FlutterApplication;
 
 public class MyApplication extends FlutterApplication {

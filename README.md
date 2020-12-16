@@ -208,4 +208,5 @@ final customObjectMap = json.decode(customMessageContent);
 var model = CustomModel.fromJson(customObjectMap);
 ```
 
-
+本sdk参考了以下的作者作品
+[flutter_nim](https://github.com/GuiminChu/flutter_nim)

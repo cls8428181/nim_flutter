@@ -1,4 +1,4 @@
-package cn.cgm.nim_flutter.Helper;
+package cn.cls.nim_flutter.Helper;
 
 import android.content.Context;
 import android.content.SharedPreferences;

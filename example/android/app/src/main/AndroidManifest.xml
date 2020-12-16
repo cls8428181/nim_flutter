@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cn.cgm.nim_flutter_example">
+    package="cn.cls.nim_flutter_example">
 
     <!-- 权限声明 -->
 

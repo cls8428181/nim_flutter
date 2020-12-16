@@ -1,4 +1,4 @@
-package cn.cgm.nim_flutter_example;
+package cn.cls.nim_flutter_example;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

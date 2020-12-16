@@ -1,12 +1,12 @@
-package android.src.main.java.cn.cgm.nim_flutter;
+package android.src.main.java.cn.cls.nim_flutter;
 
 import android.app.Application;
 
-import cn.cgm.nim_flutter.Helper.FlutterNIMHelper;
-import cn.cgm.nim_flutter.Helper.FlutterNIMPreferences;
-import cn.cgm.nim_flutter.Helper.NIMKickoutInteractor;
-import cn.cgm.nim_flutter.Helper.NIMRecentSessionsInteractor;
-import cn.cgm.nim_flutter.Helper.NIMSessionInteractor;
+import cn.cls.nim_flutter.Helper.FlutterNIMHelper;
+import cn.cls.nim_flutter.Helper.FlutterNIMPreferences;
+import cn.cls.nim_flutter.Helper.NIMKickoutInteractor;
+import cn.cls.nim_flutter.Helper.NIMRecentSessionsInteractor;
+import cn.cls.nim_flutter.Helper.NIMSessionInteractor;
 import io.flutter.plugin.common.EventChannel;
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
